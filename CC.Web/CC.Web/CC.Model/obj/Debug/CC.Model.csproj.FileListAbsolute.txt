@@ -1,0 +1,11 @@
+C:\Users\Jmunozm.INTERGRUPO\Documents\Visual Studio 2013\Projects\CC.Web\CC.Web\CC.Model\bin\Debug\CC.Model.dll
+C:\Users\Jmunozm.INTERGRUPO\Documents\Visual Studio 2013\Projects\CC.Web\CC.Web\CC.Model\bin\Debug\CC.Model.pdb
+C:\Users\Jmunozm.INTERGRUPO\Documents\Visual Studio 2013\Projects\CC.Web\CC.Web\CC.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jmunozm.INTERGRUPO\Documents\Visual Studio 2013\Projects\CC.Web\CC.Web\CC.Model\obj\Debug\CC.Model.dll
+C:\Users\Jmunozm.INTERGRUPO\Documents\Visual Studio 2013\Projects\CC.Web\CC.Web\CC.Model\obj\Debug\CC.Model.pdb
+C:\Users\Steven\Desktop\CC.Web\CC.Web\CC.Model\bin\Debug\CC.Model.dll
+C:\Users\Steven\Desktop\CC.Web\CC.Web\CC.Model\bin\Debug\CC.Model.pdb
+C:\Users\Steven\Desktop\CC.Web\CC.Web\CC.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Steven\Desktop\CC.Web\CC.Web\CC.Model\obj\Debug\CC.Model.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\CC.Web\CC.Web\CC.Model\obj\Debug\CC.Model.dll
+C:\Users\Steven\Desktop\CC.Web\CC.Web\CC.Model\obj\Debug\CC.Model.pdb
